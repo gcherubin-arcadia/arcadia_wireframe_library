@@ -5,10 +5,10 @@
     "alpha": 1,
     "blue": 0,
     "green": 0,
-    "red": 0
+    "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
+  "changeIdentifier": 26,
   "do_objectID": "F7ADB7CB-3E73-4960-8B24-33683009EE3D",
   "exportOptions": {
     "_class": "exportOptions",
